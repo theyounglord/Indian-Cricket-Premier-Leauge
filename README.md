@@ -1,4 +1,4 @@
-# IPL Data Visualization:
+# Indian Cricket Premiure Leauge:
 Data Visualization of IPL data using datasets provided by [Kaggle User - harsha547 here](https://kaggle.com/harsha547/indian-premier-league-csv-dataset).
 
 __Demo:__ Click [here](https://ipl-data-visualization-86149.firebaseapp.com/) to view my webapp.
